@@ -1,0 +1,13 @@
+{
+    "name": "ait/contact",
+    "description": "This will send email to admin and save contact query to database",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Ait\\Contact\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}

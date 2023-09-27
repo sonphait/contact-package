@@ -1,5 +1,5 @@
 # Contact us from package
-https://img.shields.io/github/issues/sonphait/contact-package
-https://img.shields.io/github/v/tag/sonphait/contact-package
+![Latest Release] https://badgen.net/github/stars/sonphait/contact-package
+![Latest Tags]https://badgen.net/tag/sonphait/contact-package
 
 ## Package for everyone

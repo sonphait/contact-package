@@ -1,6 +1,6 @@
 <?php
 
-namespace Ait\Contact\Mail;
+namespace Sonphait\Contact\Mail;
 
 use Illuminate\Bus\Queueable;
 use Illuminate\Contracts\Queue\ShouldQueue;

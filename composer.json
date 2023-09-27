@@ -8,6 +8,13 @@
             "Sonphait\\Contact\\": "src/"
         }
     },
+    "extra": {
+      "laravel": {
+        "providers": [
+          "Sonphait\\Contact\\ContactServiceProvider"
+        ]
+      }
+    },
     "minimum-stability": "dev",
     "require": {}
 }

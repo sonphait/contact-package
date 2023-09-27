@@ -1,6 +1,6 @@
 <?php
 
-namespace Ait\Contact\Models;
+namespace Sonphait\Contact\Models;
 
 use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Model;

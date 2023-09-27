@@ -1,6 +1,6 @@
 <?php
 
-namespace Ait\Contact;
+namespace Sonphait\Contact;
 
 use Illuminate\Support\ServiceProvider;
 

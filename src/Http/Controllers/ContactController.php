@@ -1,12 +1,12 @@
 <?php
 
-namespace Ait\Contact\Http\Controllers;
+namespace Sonphait\Contact\Http\Controllers;
 
-use Ait\Contact\Models\Contact;
+use Sonphait\Contact\Models\Contact;
 use App\Http\Controllers\Controller;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Mail;
-use Ait\Contact\Mail\ContactMailable;
+use Sonphait\Contact\Mail\ContactMailable;
 
 class ContactController extends Controller
 {
